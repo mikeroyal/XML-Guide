@@ -6,7 +6,14 @@
 
 #### A guide covering XML (Extensible Markup Language) including the applications, libraries and tools that will make you a better and more efficient developer with XML.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/122687555-e6762200-d1cb-11eb-9d19-2a1a8a2255b6.png">
+  <br />
+</p>
+
+# XML Learning Resources
 
 [XML(Extensible Markup Language)](https://www.w3.org/XML/) is a markup language that is similar to HTML but without predefined tags. Instead, the user define their own tags designed specifically for their needs. 
 
@@ -48,7 +55,7 @@
 
 [XML Training Courses on NobleProg](https://www.nobleprog.com/xml-training)
 
-## Tools
+# XML Tools and Frameworks
 
 [Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
 
@@ -73,3 +80,13 @@
 [Erlsom](https://github.com/willemdj/erlsom) is an XML parser for Erlang.
 
 [REST-assured](https://github.com/rest-assured/rest-assured) is a Java DSL for easy testing of REST services.
+
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
